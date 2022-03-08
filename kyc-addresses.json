@@ -1,1 +1,1 @@
-{"merkleRoot":"0x1e48f1856b2b27c53e22395c5dfc9ca6bd063492ab7f888867a35846d0e3a48e","addressTotal":"0x01","kycRecords":{"0x30A2D9B73C7ef1CB929e524A1C8481A86B14287C":{"index":0,"proof":[]}}}
+{"merkleRoot":"0x75a89bbb1cf44699ac356598428a681fb837ff985f9fcc26429628214a95fdf9","addressTotal":"0x02","kycRecords":{"0x30A2D9B73C7ef1CB929e524A1C8481A86B14287C":{"index":0,"proof":["0x99e8d81d4773cc0a4fbdaf0d5315917f813842bf3bd1e4fdb53dae8754a9e6c4"]},"0x917E0E0bAf185fF00163120dD9e1422a371A38C8":{"index":1,"proof":["0x1e48f1856b2b27c53e22395c5dfc9ca6bd063492ab7f888867a35846d0e3a48e"]}}}
